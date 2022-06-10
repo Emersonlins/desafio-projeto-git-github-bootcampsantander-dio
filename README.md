@@ -5,7 +5,7 @@ Criando meu primeiro repositório no github, como processo de aprendizagem.
 
 2. O GitHub é uma plataforma para hospedagem e controle de versão de código utilizando o sistema Git como base. Também serve como uma comunidade para programadores do mundo todo colaborarem em projetos pessoais e de código-aberto, além de contar com uma versão paga para empresas e profissionais.
 ## Cursos complementares
-[Links outros cursos](https://www.cursoemvideo.com/)
+[Curso em vídeo](https://www.cursoemvideo.com/)
 
 ## **Softwares utilizados**
 
